@@ -1,0 +1,16 @@
+Information about the skills that will be studied on the course:
+	Hard skills:
+		- testing_practice,
+		- terminal_Linux,
+		- Git_hub,
+		- SQL,
+		- Postman,
+		- JSON, XML,
+		- DevTools,
+		- English language.
+	Soft skills:
+		- responsibility,
+		- communication,
+		- attentiveness,
+		- discipline,
+		- respect.
