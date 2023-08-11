@@ -1,5 +1,5 @@
-Информация о себе:
-	ФИО: Разумейко Кристина Владимировна
-	Возраст: 31
-	Количество домашних животных: 1
-	Будущая желаемая зарплата: 750
+Personal information:
+	First name, Surname: Razumeyko Kristina
+	Age: 31
+	Number of pets: 1
+	Future expected salary: 750
